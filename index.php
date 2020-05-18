@@ -1,1 +1,3 @@
-<?php echo ""[Dphp"[C?>
+<?php
+echo "heloo php";
+?>
